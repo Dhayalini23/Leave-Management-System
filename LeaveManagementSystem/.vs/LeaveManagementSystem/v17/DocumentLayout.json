@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "X:\\Activities\\leave\\Activity32_BRD\\LeaveManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFD25C6-28E9-45E8-9D87-95D2280C02B3}|LeaveManagementSystem\\LeaveManagementSystem.csproj|x:\\activities\\leave\\activity32_brd\\leavemanagementsystem\\leavemanagementsystem\\repository\\adminrepository\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFD25C6-28E9-45E8-9D87-95D2280C02B3}|LeaveManagementSystem\\LeaveManagementSystem.csproj|solutionrelative:leavemanagementsystem\\repository\\adminrepository\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFD25C6-28E9-45E8-9D87-95D2280C02B3}|LeaveManagementSystem\\LeaveManagementSystem.csproj|x:\\activities\\leave\\activity32_brd\\leavemanagementsystem\\leavemanagementsystem\\services\\adminservice\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFD25C6-28E9-45E8-9D87-95D2280C02B3}|LeaveManagementSystem\\LeaveManagementSystem.csproj|solutionrelative:leavemanagementsystem\\services\\adminservice\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFD25C6-28E9-45E8-9D87-95D2280C02B3}|LeaveManagementSystem\\LeaveManagementSystem.csproj|x:\\activities\\leave\\activity32_brd\\leavemanagementsystem\\leavemanagementsystem\\controllers\\admincontroller\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFD25C6-28E9-45E8-9D87-95D2280C02B3}|LeaveManagementSystem\\LeaveManagementSystem.csproj|solutionrelative:leavemanagementsystem\\controllers\\admincontroller\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFD25C6-28E9-45E8-9D87-95D2280C02B3}|LeaveManagementSystem\\LeaveManagementSystem.csproj|x:\\activities\\leave\\activity32_brd\\leavemanagementsystem\\leavemanagementsystem\\irepository\\iadminrepository\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFD25C6-28E9-45E8-9D87-95D2280C02B3}|LeaveManagementSystem\\LeaveManagementSystem.csproj|solutionrelative:leavemanagementsystem\\irepository\\iadminrepository\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFD25C6-28E9-45E8-9D87-95D2280C02B3}|LeaveManagementSystem\\LeaveManagementSystem.csproj|x:\\activities\\leave\\activity32_brd\\leavemanagementsystem\\leavemanagementsystem\\entity\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFD25C6-28E9-45E8-9D87-95D2280C02B3}|LeaveManagementSystem\\LeaveManagementSystem.csproj|solutionrelative:leavemanagementsystem\\entity\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFD25C6-28E9-45E8-9D87-95D2280C02B3}|LeaveManagementSystem\\LeaveManagementSystem.csproj|x:\\activities\\leave\\activity32_brd\\leavemanagementsystem\\leavemanagementsystem\\entity\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFD25C6-28E9-45E8-9D87-95D2280C02B3}|LeaveManagementSystem\\LeaveManagementSystem.csproj|solutionrelative:leavemanagementsystem\\entity\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFD25C6-28E9-45E8-9D87-95D2280C02B3}|LeaveManagementSystem\\LeaveManagementSystem.csproj|x:\\activities\\leave\\activity32_brd\\leavemanagementsystem\\leavemanagementsystem\\entity\\leavepolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFD25C6-28E9-45E8-9D87-95D2280C02B3}|LeaveManagementSystem\\LeaveManagementSystem.csproj|solutionrelative:leavemanagementsystem\\entity\\leavepolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFD25C6-28E9-45E8-9D87-95D2280C02B3}|LeaveManagementSystem\\LeaveManagementSystem.csproj|x:\\activities\\leave\\activity32_brd\\leavemanagementsystem\\leavemanagementsystem\\dtos\\rensponsedto\\leaverequestresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFD25C6-28E9-45E8-9D87-95D2280C02B3}|LeaveManagementSystem\\LeaveManagementSystem.csproj|solutionrelative:leavemanagementsystem\\dtos\\rensponsedto\\leaverequestresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFD25C6-28E9-45E8-9D87-95D2280C02B3}|LeaveManagementSystem\\LeaveManagementSystem.csproj|x:\\activities\\leave\\activity32_brd\\leavemanagementsystem\\leavemanagementsystem\\iservices\\iadminservice\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFD25C6-28E9-45E8-9D87-95D2280C02B3}|LeaveManagementSystem\\LeaveManagementSystem.csproj|solutionrelative:leavemanagementsystem\\iservices\\iadminservice\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Users.cs",
+              "DocumentMoniker": "X:\\Activities\\leave\\Activity32_BRD\\LeaveManagementSystem\\LeaveManagementSystem\\Entity\\Users.cs",
+              "RelativeDocumentMoniker": "LeaveManagementSystem\\Entity\\Users.cs",
+              "ToolTip": "X:\\Activities\\leave\\Activity32_BRD\\LeaveManagementSystem\\LeaveManagementSystem\\Entity\\Users.cs",
+              "RelativeToolTip": "LeaveManagementSystem\\Entity\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T10:01:42.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LeaveRequest.cs",
+              "DocumentMoniker": "X:\\Activities\\leave\\Activity32_BRD\\LeaveManagementSystem\\LeaveManagementSystem\\Entity\\LeaveRequest.cs",
+              "RelativeDocumentMoniker": "LeaveManagementSystem\\Entity\\LeaveRequest.cs",
+              "ToolTip": "X:\\Activities\\leave\\Activity32_BRD\\LeaveManagementSystem\\LeaveManagementSystem\\Entity\\LeaveRequest.cs",
+              "RelativeToolTip": "LeaveManagementSystem\\Entity\\LeaveRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T10:01:25.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LeavePolicy.cs",
+              "DocumentMoniker": "X:\\Activities\\leave\\Activity32_BRD\\LeaveManagementSystem\\LeaveManagementSystem\\Entity\\LeavePolicy.cs",
+              "RelativeDocumentMoniker": "LeaveManagementSystem\\Entity\\LeavePolicy.cs",
+              "ToolTip": "X:\\Activities\\leave\\Activity32_BRD\\LeaveManagementSystem\\LeaveManagementSystem\\Entity\\LeavePolicy.cs",
+              "RelativeToolTip": "LeaveManagementSystem\\Entity\\LeavePolicy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T10:01:16.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LeaveRequestResponseDTO.cs",
+              "DocumentMoniker": "X:\\Activities\\leave\\Activity32_BRD\\LeaveManagementSystem\\LeaveManagementSystem\\DTOs\\RensponseDTO\\LeaveRequestResponseDTO.cs",
+              "RelativeDocumentMoniker": "LeaveManagementSystem\\DTOs\\RensponseDTO\\LeaveRequestResponseDTO.cs",
+              "ToolTip": "X:\\Activities\\leave\\Activity32_BRD\\LeaveManagementSystem\\LeaveManagementSystem\\DTOs\\RensponseDTO\\LeaveRequestResponseDTO.cs",
+              "RelativeToolTip": "LeaveManagementSystem\\DTOs\\RensponseDTO\\LeaveRequestResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T07:34:46.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAdminService.cs",
+              "DocumentMoniker": "X:\\Activities\\leave\\Activity32_BRD\\LeaveManagementSystem\\LeaveManagementSystem\\IServices\\IAdminService\\IAdminService.cs",
+              "RelativeDocumentMoniker": "LeaveManagementSystem\\IServices\\IAdminService\\IAdminService.cs",
+              "ToolTip": "X:\\Activities\\leave\\Activity32_BRD\\LeaveManagementSystem\\LeaveManagementSystem\\IServices\\IAdminService\\IAdminService.cs",
+              "RelativeToolTip": "LeaveManagementSystem\\IServices\\IAdminService\\IAdminService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T04:56:13.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAdminRepository.cs",
+              "DocumentMoniker": "X:\\Activities\\leave\\Activity32_BRD\\LeaveManagementSystem\\LeaveManagementSystem\\IRepository\\IAdminRepository\\IAdminRepository.cs",
+              "RelativeDocumentMoniker": "LeaveManagementSystem\\IRepository\\IAdminRepository\\IAdminRepository.cs",
+              "ToolTip": "X:\\Activities\\leave\\Activity32_BRD\\LeaveManagementSystem\\LeaveManagementSystem\\IRepository\\IAdminRepository\\IAdminRepository.cs",
+              "RelativeToolTip": "LeaveManagementSystem\\IRepository\\IAdminRepository\\IAdminRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T04:52:31.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "X:\\Activities\\leave\\Activity32_BRD\\LeaveManagementSystem\\LeaveManagementSystem\\Controllers\\AdminController\\AdminController.cs",
+              "RelativeDocumentMoniker": "LeaveManagementSystem\\Controllers\\AdminController\\AdminController.cs",
+              "ToolTip": "X:\\Activities\\leave\\Activity32_BRD\\LeaveManagementSystem\\LeaveManagementSystem\\Controllers\\AdminController\\AdminController.cs",
+              "RelativeToolTip": "LeaveManagementSystem\\Controllers\\AdminController\\AdminController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T04:50:05.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "X:\\Activities\\leave\\Activity32_BRD\\LeaveManagementSystem\\LeaveManagementSystem\\Services\\AdminService\\AdminService.cs",
+              "RelativeDocumentMoniker": "LeaveManagementSystem\\Services\\AdminService\\AdminService.cs",
+              "ToolTip": "X:\\Activities\\leave\\Activity32_BRD\\LeaveManagementSystem\\LeaveManagementSystem\\Services\\AdminService\\AdminService.cs",
+              "RelativeToolTip": "LeaveManagementSystem\\Services\\AdminService\\AdminService.cs",
+              "ViewState": "AQIAAMgAAAAAAAAAAADwv84AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T04:50:01.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminRepository.cs",
+              "DocumentMoniker": "X:\\Activities\\leave\\Activity32_BRD\\LeaveManagementSystem\\LeaveManagementSystem\\Repository\\AdminRepository\\AdminRepository.cs",
+              "RelativeDocumentMoniker": "LeaveManagementSystem\\Repository\\AdminRepository\\AdminRepository.cs",
+              "ToolTip": "X:\\Activities\\leave\\Activity32_BRD\\LeaveManagementSystem\\LeaveManagementSystem\\Repository\\AdminRepository\\AdminRepository.cs",
+              "RelativeToolTip": "LeaveManagementSystem\\Repository\\AdminRepository\\AdminRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T04:49:58.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
